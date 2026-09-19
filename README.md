@@ -7,9 +7,9 @@
 
 <br />
 
-<!-- 한 줄 소개 -->
+<!-- 포트폴리오 링크 -->
 <div align="center">
-  <b>https://leeedd00.github.io/</b>
+  <a href="https://leeedd00.github.io"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
 <br />
@@ -120,7 +120,6 @@
 
 <div align="center">
   <a href="mailto:donggeon9850@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leeedd00.github.io"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/%EB%8F%99%EA%B1%B4-%EC%9D%B4-5b73753a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
