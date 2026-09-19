@@ -19,11 +19,8 @@
 <td valign="top" width="60%">
 
 ##  About Me
-
-- 🎓 경상국립대학교 / 유통물류학 & 컴퓨터공학 복수전공
-- 🌱 관심 분야: BigData, AI Agent, CS, Distribution & Logistics
-- 🔭 진행 프로젝트: **Keeping** — AI 매장 비서 (재고관리 App)
-- 📫 연락: donggeon9850@gmail.com
+ 관심 분야: BigData, AI Agent, Computer Engineering, Distribution & Logistics
+- 🎓  2023 ~ 현재  경상국립대학교 유통물류학 & 컴퓨터공학 복수전공
 
 </td>
 <td valign="top" width="40%">
