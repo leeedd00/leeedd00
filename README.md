@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="200" alt="뉴욕" src="https://github.com/user-attachments/assets/acfe2d21-f0af-4bfd-a658-38b5c87b8e36" />
+<img align="right" width="400" alt="뉴욕" src="https://github.com/user-attachments/assets/acfe2d21-f0af-4bfd-a658-38b5c87b8e36" />
 
 ### 👨‍💻 About Me
-- 🎓 경상국립대학교 /유통물류 & 컴퓨터공학 복수전공
-- 🌱 BigData, AI Agent, CS, Distribution & Logistics
-- 🔭 재고관리 자동화 프로그램
+- 🎓 경상국립대학교 / 유통물류 & 컴퓨터공학 복수전공
+- 🌱 관심 분야: BigData, AI Agent, CS, Distribution & Logistics
+- 🔭 진행 프로젝트: 재고관리 App
 - 📫 연락처: donggeon9850@gmail.com
 
 <br clear="both" />
