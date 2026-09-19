@@ -71,28 +71,13 @@
 
 ## 🚀 Projects
 
-> 각 프로젝트의 자세한 내용은 [포트폴리오 사이트](https://leeedd00.github.io/projects/)에서 볼 수 있어요.
+> 프로젝트 이름을 누르면 [포트폴리오 사이트](https://leeedd00.github.io/projects/)의 상세 페이지로 이동합니다.
 
-### 📦 Keeping — AI 매장 비서
-소규모 식당의 재고를 모니터링하고, 재고 부족·소비기한 임박을 자동 감지해 발주 초안을 만들어 주는 모바일 앱
-
-- **기간 / 역할**: ( 빈칸 )
-- **기술 스택**: Expo (React Native), FastAPI, SQLAlchemy, Supabase PostgreSQL, Docker
-- **링크**: [상세 보기](https://leeedd00.github.io/projects/keeping/) · [GitHub]( 빈칸: 저장소 URL )
-
-### 🔬 Purdue 해외 연구 프로그램
-( 빈칸: 한 줄 요약 )
-
-- **기간 / 역할**: 2026.06 – 2026.07 · ( 빈칸: 역할 )
-- **기술 스택**: ( 빈칸 )
-- **링크**: [상세 보기](https://leeedd00.github.io/projects/purdue/) · [GitHub]( 빈칸 )
-
-### ( 빈칸: 프로젝트 이름 )
-( 빈칸: 한 줄 요약 )
-
-- **기간 / 역할**: ( 빈칸 )
-- **기술 스택**: ( 빈칸 )
-- **링크**: [상세 보기]( 빈칸 ) · [GitHub]( 빈칸 )
+| 프로젝트 | 한 줄 요약 |
+|----------|-----------|
+| [**Keeping — AI 매장 비서**](https://leeedd00.github.io/projects/keeping/) | 소규모 식당의 재고를 모니터링하고, 재고 부족·소비기한 임박을 자동 감지해 발주 초안을 만들어 주는 모바일 앱 |
+| [**Purdue 해외 연구 프로그램**](https://leeedd00.github.io/projects/purdue/) | ( 빈칸: 한 줄 요약 ) |
+| [**( 빈칸: 프로젝트 이름 )**]( 빈칸: 상세 페이지 URL ) | ( 빈칸: 한 줄 요약 ) |
 
 <br />
 
