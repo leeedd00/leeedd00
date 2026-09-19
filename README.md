@@ -9,7 +9,7 @@
 
 <!-- 한 줄 소개 -->
 <div align="center">
-  <b>( 빈칸: 나를 한 줄로 소개하는 문장 )</b>
+  <b>https://leeedd00.github.io/</b>
 </div>
 
 <br />
