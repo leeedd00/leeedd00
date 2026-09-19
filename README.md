@@ -1,11 +1,9 @@
 <!-- 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Donggeon%20Lee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Distribution%20%26%20Logistics&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Donggeon%20Lee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Distribution%20%C2%B7%20Logistics&descAlignY=58&descSize=18" alt="header" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Donggeon+Lee+%F0%9F%91%8B;AI+%C3%97+Distribution+%26+Logistics;Building+an+AI+inventory+assistant" alt="typing" />
-</div>
+<h1 align="center">Hi, I'm Donggeon Lee (Ethan) 👋</h1>
 
 <br />
 
@@ -102,19 +100,6 @@
 |------|------|
 | ( 빈칸 ) | ( 빈칸: 수상 / 자격증 / 대회 참가 ) |
 | ( 빈칸 ) | ( 빈칸 ) |
-
-<br />
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leeedd00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeedd00&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=leeedd00&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
 
 <br />
 
