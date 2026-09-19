@@ -23,8 +23,7 @@
 - 🎓 경상국립대학교 / 유통물류학 & 컴퓨터공학 복수전공
 - 🌱 관심 분야: BigData, AI Agent, CS, Distribution & Logistics
 - 🔭 진행 프로젝트: **Keeping** — AI 매장 비서 (재고관리 App)
-- 💡 나의 강점: ( 빈칸 )
-- 📫 연락처: donggeon9850@gmail.com
+- 📫 연락: donggeon9850@gmail.com
 
 </td>
 <td valign="top" width="40%">
@@ -33,7 +32,7 @@
 </tr>
 </table>
 
-## 🎯 관심 직무
+##  관심 직무
 
 | 직무 |
 |------|------------------------|
@@ -44,7 +43,7 @@
 
 <br />
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <!-- 배지 추가/삭제: https://shields.io 또는 https://simpleicons.org 참고 -->
 
@@ -116,7 +115,7 @@
 
 <br />
 
-## 📫 Contact
+##  Contact
 
 <div align="center">
   <a href="mailto:donggeon9850@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
