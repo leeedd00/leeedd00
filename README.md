@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Donggeon%20Lee%20(Ethan)&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Distribution%20%C2%B7%20Logistics&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Donggeon%20Lee%20(Ethan)&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Computer%20Engineering%20%C2%B7%20Distribution%20%26amp%3B%20Logistics&descAlignY=58&descSize=18" alt="header" />
 </div>
 
 <h1 align="center">Hi, I'm Donggeon Lee (Ethan) 👋</h1>
