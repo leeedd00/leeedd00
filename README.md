@@ -14,7 +14,9 @@
 
 <br />
 
-<img align="right" width="380" alt="뉴욕" src="https://github.com/user-attachments/assets/acfe2d21-f0af-4bfd-a658-38b5c87b8e36" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ## 👨‍💻 About Me
 
@@ -25,7 +27,12 @@
 - 🎯 올해 목표: ( 빈칸 )
 - 📫 연락처: donggeon9850@gmail.com
 
-<br clear="both" />
+</td>
+<td valign="top" width="40%">
+<img width="100%" alt="뉴욕" src="https://github.com/user-attachments/assets/acfe2d21-f0af-4bfd-a658-38b5c87b8e36" />
+</td>
+</tr>
+</table>
 
 ## 🎯 관심 직무
 
