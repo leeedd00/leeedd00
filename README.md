@@ -23,5 +23,9 @@ Here are some ideas to get you started:
 - 🔭 진행 프로젝트: 재고관리 App
 - 📫 연락처: donggeon9850@gmail.com
 
+- 관심 직무
+  AI 엔지니어
+  재고관리 관리자
+  
 <br clear="both" />
 
