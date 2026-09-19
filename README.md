@@ -120,10 +120,8 @@
 
 <div align="center">
   <a href="mailto:donggeon9850@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/leeedd00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- 아래 링크는 빈칸: 주소 채우면 활성화 -->
-  <a href="( 빈칸: 블로그 URL )"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
-  <a href="( 빈칸: LinkedIn URL )"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leeedd00.github.io"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%EB%8F%99%EA%B1%B4-%EC%9D%B4-5b73753a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br />
