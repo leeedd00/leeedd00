@@ -19,7 +19,15 @@
 <td valign="top" width="60%">
 
 ##  About Me
- 관심 분야: BigData, AI Agent, Computer Engineering, Distribution & Logistics
+
+**물류의 문제를 코드와 데이터로 푸는 사람**이 되려고 합니다.
+
+유통물류학과 컴퓨터공학을 함께 공부하며, 매장에서 매일 반복되는 폐기와 품절 문제를 감이 아니라 데이터로 판단할 수 있다고 믿습니다. 그래서 소규모 식당의 재고를 지켜보고 발주 초안까지 만들어 주는 AI 매장 비서 **Keeping**을 웹에서 모바일까지 두 번에 걸쳐 만들었고, Purdue University 연구 프로그램에서는 기후 데이터로 수확량을 예측하고 메타휴리스틱으로 최적 배치를 찾으며 예측을 의사결정으로 잇는 일을 경험했습니다.
+
+창업동아리 대표, 창업탐색팀 팀장, 외주 발주자로 기획과 개발을 오가며 일했습니다. 현장의 언어와 개발자의 언어를 둘 다 쓰는 사람으로, 재고 · 발주 · 수요예측 문제를 실제 서비스로 만들고 싶습니다.
+
+- 🎓 경상국립대학교 유통물류학 & 컴퓨터공학 복수전공
+- 🔍 관심 분야: BigData, AI Agent, Computer Engineering, Distribution & Logistics
 
 </td>
 <td valign="top" width="40%">
