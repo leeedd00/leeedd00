@@ -99,7 +99,7 @@
 |------|------|
 | Certificate | ADsP, SQLD |
 | Award | 동남권 창업동아리: 시제품 품평회 특별상, 장려상 |
-| Award | GNU 창업탐색팀 20+: ( 빈칸: 상 이름 ) |
+| Award | GNU 창업탐색팀 20+: 우수상 |
 | Award | ( 빈칸 ) |
 
 <br />
