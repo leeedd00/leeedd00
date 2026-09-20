@@ -98,7 +98,7 @@
 | 구분 | 내용 |
 |------|------|
 | Certificate | ADsP, SQLD |
-| Award | 동남권 창업동아리: 장려상, 인기상 |
+| Award | 동남권 창업동아리: 시제품 품평회 특별상, 장려상 |
 | Award | 
 | Award | 
 | Award |
